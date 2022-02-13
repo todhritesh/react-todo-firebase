@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todhritesh/react-todo-firebase/static/css/main.56e6221f.css",
+    "main.js": "/todhritesh/react-todo-firebase/static/js/main.eb4129ff.js",
+    "index.html": "/todhritesh/react-todo-firebase/index.html",
+    "main.56e6221f.css.map": "/todhritesh/react-todo-firebase/static/css/main.56e6221f.css.map",
+    "main.eb4129ff.js.map": "/todhritesh/react-todo-firebase/static/js/main.eb4129ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.eb4129ff.js"
+  ]
+}
